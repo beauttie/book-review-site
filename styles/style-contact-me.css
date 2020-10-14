@@ -31,3 +31,7 @@ div img {
     font-size: larger;
     color: darkorange;
 }
+
+a:hover {
+    font-size: larger;
+}
