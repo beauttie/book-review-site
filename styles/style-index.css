@@ -1,0 +1,52 @@
+body {
+    background-color: plum;
+    font-family: Andale Mono, monospace;
+}
+
+nav a {
+    background-color: skyblue;
+    border-radius: 25px;
+    border-style: outset;
+    padding: 10px;
+}
+
+i {
+    color: red;
+}
+
+header {
+    text-align: center;
+}
+
+div {
+    background-color: deeppink;
+    border-radius: 25px;
+    display: table;
+    margin: auto;
+    padding: 10px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 30px;
+}
+
+img {
+    height: 300px;
+    width: 220px;
+}
+
+img:hover {
+    opacity: 0;
+}
+
+footer {
+    color: ghostwhite;
+    padding: 20px;
+    text-align: center;
+}
