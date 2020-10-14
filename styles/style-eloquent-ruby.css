@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    font-family: American Typewriter, serif;
+}
+
+div {
+    background-color: white;
+    width: 975px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+header, footer {
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+}
+
+nav img {
+    height: 90px;
+    width: 100px;
+}
+
+nav a {
+    padding: 5px;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: block;
+    list-style-type: none;
+    margin: 5px 0;
+}
+
+#home-icon {
+    height: 38px;
+    width: 38px;
+}
+
+#mail-icon {
+    height: 47px;
+    width: 47px;
+}
+
+#book-cover {
+    float: left;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 150px;
+}
+
+section ul {
+    list-style-type: none;
+}
