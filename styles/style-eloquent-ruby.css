@@ -5,14 +5,14 @@ body {
 
 div {
     background-color: white;
-    width: 975px;
     margin: 0 auto;
     padding: 40px;
+    width: 975px;
 }
 
 header, footer {
-    text-align: center;
     font-family: Snell Roundhand, cursive;
+    text-align: center;
 }
 
 nav img {
@@ -32,23 +32,19 @@ nav li {
     display: block;
     list-style-type: none;
     margin: 5px 0;
+    padding-bottom: 20px;
 }
 
-#home-icon {
-    height: 38px;
-    width: 38px;
-}
-
-#mail-icon {
-    height: 47px;
-    width: 47px;
+.button {
+    height: 35px;
+    width: 35px;
 }
 
 #book-cover {
     float: left;
-    padding-top: 20px;
-    padding-right: 20px;
     padding-bottom: 150px;
+    padding-right: 20px;
+    padding-top: 20px;
 }
 
 section ul {
