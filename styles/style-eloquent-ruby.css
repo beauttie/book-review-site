@@ -5,7 +5,7 @@ body {
 
 div {
     background-color: white;
-    margin: 0 auto;
+    margin: auto;
     padding: 40px;
     width: 975px;
 }
@@ -31,7 +31,7 @@ nav ul {
 nav li {
     display: block;
     list-style-type: none;
-    margin: 5px 0;
+    margin: 5px;
     padding-bottom: 20px;
 }
 

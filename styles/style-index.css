@@ -10,11 +10,15 @@ nav a {
     padding: 10px;
 }
 
-i {
+em {
     color: red;
 }
 
-header {
+em:hover {
+    font-size: larger;
+}
+
+header, ul {
     text-align: center;
 }
 
@@ -24,10 +28,6 @@ div {
     display: table;
     margin: auto;
     padding: 10px;
-}
-
-ul {
-    text-align: center;
 }
 
 li {
