@@ -50,3 +50,8 @@ nav li {
 section ul {
     list-style-type: none;
 }
+
+.review-byline {
+    margin: 0;
+    padding: 0;
+}
